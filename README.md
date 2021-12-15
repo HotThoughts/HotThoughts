@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/HotThoughts/HotThoughts/raw/main/cover.png" />
+  <img src="https://github.com/HotThoughts/HotThoughts/raw/main/cover-sticker.png" />
 </div>
 
 <!--
