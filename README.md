@@ -1,4 +1,6 @@
-### Hi there 👋
+<div align="center">
+  <img src="https://github.com/HotThoughts/HotThoughts/raw/main/cover.png" />
+</div>
 
 <!--
 **HotThoughts/HotThoughts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
