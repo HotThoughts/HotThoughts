@@ -12,16 +12,16 @@
 
 <!-- - 🔭 I’m currently working on ... -->
 🌱 I’m currently learning:
-- Infrastructure as Code: [Terraform](https://www.terraform.io), [Pulumi](https://www.pulumi.com)
-- DNS as Code: [DNSControl](https://github.com/StackExchange/dnscontrol)
 
+- Infrastructure Provisioning: [Terragrunt](https://www.terraform.io), [Pulumi](https://www.pulumi.com), [Crossplane (stateless)](https://crossplane.io)
+- Configuration Manangement: [Ansible](https://www.ansible.com), [DNSControl](https://github.com/StackExchange/dnscontrol)
 
 💡 I'm interested in:
-- Monitoring as Code: [Checkly](https://www.checklyhq.com), [Assets.ai](https://www.asserts.ai), [sensu](https://sensu.io)
+
 - DJing as Code: [Tidal Cycles](https://tidalcycles.org)
+- API Observability: [Akita](https://www.akitasoftware.com)
 - MLOps tooling: [Determined AI](https://www.determined.ai), [ZenML](https://zenml.io)
-
-
+- Monitoring as Code: [Checkly](https://www.checklyhq.com), [Assets.ai](https://www.asserts.ai), [sensu](https://sensu.io)
 
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
