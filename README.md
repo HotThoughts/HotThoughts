@@ -9,12 +9,10 @@
 </div>
 
 <hr>
-
-<!-- - 🔭 I’m currently working on ... -->
 🌱 I’m currently learning:
 
-- Infrastructure Provisioning: [Terragrunt](https://www.terraform.io), [Pulumi](https://www.pulumi.com), [Crossplane (stateless)](https://crossplane.io)
-- Configuration Manangement: [Ansible](https://www.ansible.com), [DNSControl](https://github.com/StackExchange/dnscontrol)
+- Infrastructure Provisioning: [Crossplane (stateless)](https://crossplane.io)
+- Configuration Management: [Ansible](https://www.ansible.com), [DNSControl](https://github.com/StackExchange/dnscontrol)
 
 💡 I'm interested in:
 
