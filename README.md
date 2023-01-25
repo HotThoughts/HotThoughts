@@ -19,6 +19,7 @@
 - API Observability: [Akita](https://www.akitasoftware.com)
 - MLOps tooling: [Determined AI](https://www.determined.ai), [ZenML](https://zenml.io), [BentoML](https://www.bentoml.com/)
 - Monitoring as Code: [Checkly](https://www.checklyhq.com), [Assets.ai](https://www.asserts.ai), [sensu](https://sensu.io)
+- Policy Management: [Kyverno](https://kyverno.io/), [Datree](https://www.datree.io/)
 
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
