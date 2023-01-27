@@ -12,12 +12,12 @@
 🌱 I’m currently learning:
 
 - Infrastructure Provisioning: [Crossplane (stateless)](https://crossplane.io)
+- DJing as Code: [Tidal Cycles](https://tidalcycles.org)
 
 💡 I'm interested in:
 
-- DJing as Code: [Tidal Cycles](https://tidalcycles.org)
 - API Observability: [Akita](https://www.akitasoftware.com)
-- MLOps tooling: [Determined AI](https://www.determined.ai), [ZenML](https://zenml.io)
+- MLOps tooling: [Determined AI](https://www.determined.ai), [ZenML](https://zenml.io), [BentoML](https://www.bentoml.com/)
 - Monitoring as Code: [Checkly](https://www.checklyhq.com), [Assets.ai](https://www.asserts.ai), [sensu](https://sensu.io)
 
 <!-- - 👯 I’m looking to collaborate on ... -->
