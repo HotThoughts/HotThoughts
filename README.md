@@ -12,7 +12,6 @@
 🌱 I’m currently learning:
 
 - Infrastructure Provisioning: [Crossplane (stateless)](https://crossplane.io)
-- Configuration Management: [Ansible](https://www.ansible.com), [DNSControl](https://github.com/StackExchange/dnscontrol)
 
 💡 I'm interested in:
 
