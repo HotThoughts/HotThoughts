@@ -26,8 +26,7 @@
 <!-- - 💬 Ask me about ... -->
 <!-- - 📫 How to reach me: ... -->
 
-test
-😄 Pronouns: she/her
+😄 Pronouns: she/they
 <!--
 **HotThoughts/HotThoughts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
