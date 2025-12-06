@@ -9,35 +9,20 @@
 </div>
 
 <hr>
-🌱 I’m currently learning:
 
-- Infrastructure Provisioning: [Crossplane (stateless)](https://crossplane.io)
-- DJing as Code: [Tidal Cycles](https://tidalcycles.org)
+💫 My Philosophy
 
-💡 I'm interested in:
+- **Automation First** - Eliminating manual toil through declarative, code-driven approaches that ensure reproducibility and reduce human error
+- **Infrastructure as Code & GitOps** - Managing all infrastructure and deployments through version-controlled, code-driven workflows with Git as the single source of truth
+- **People Enablement** - Empowering teams through automation, clear documentation, and self-service capabilities that reduce friction and enable autonomy
 
-- API Observability: [Akita](https://www.akitasoftware.com)
-- MLOps tooling: [Determined AI](https://www.determined.ai), [ZenML](https://zenml.io), [BentoML](https://www.bentoml.com/)
-- Monitoring as Code: [Checkly](https://www.checklyhq.com), [Assets.ai](https://www.asserts.ai), [sensu](https://sensu.io)
-- Policy Management: [Kyverno](https://kyverno.io/), [Datree](https://www.datree.io/)
+🌱 Learning & Exploring
 
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about ... -->
-<!-- - 📫 How to reach me: ... -->
+- **Music as Code** - Generating music through code and exploring multimodal agentic capabilities for music creation
+- **Model Serving & Inference** - Efficiently deploying and serving ML models at scale with optimized inference pipelines and performance
+
+🤝 Open to Collaboration
+
+- **Generative Art, Interactive Installations, Visual-Audio Performance**
 
 😄 Pronouns: she/they
-<!--
-**HotThoughts/HotThoughts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
