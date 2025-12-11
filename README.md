@@ -12,14 +12,14 @@
 
 💫 My Philosophy
 
-- **Automation First** - Eliminating manual toil through declarative, code-driven approaches that ensure reproducibility and reduce human error
-- **Infrastructure as Code & GitOps** - Managing all infrastructure and deployments through version-controlled, code-driven workflows with Git as the single source of truth
-- **People Enablement** - Empowering teams through automation, clear documentation, and self-service capabilities that reduce friction and enable autonomy
+- **Automation First** because professional laziness is an art form
+- **Infrastructure as Code & GitOps** if you wish to find the version controlled elegance
+- **Sharing is caring!**
 
 🌱 Learning & Exploring
 
-- **Music as Code** - Generating music through code and exploring multimodal agentic capabilities for music creation
-- **Model Serving & Inference** - Efficiently deploying and serving ML models at scale with optimized inference pipelines and performance
+- **Music as Code** in nvim ฅʕ•̫͡•ʔฅ 
+- **Model Serving & Inference**
 
 🤝 Open to Collaboration
 
