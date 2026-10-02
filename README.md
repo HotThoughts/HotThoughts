@@ -1,28 +1,20 @@
 <div align="center">
-  <!-- Cover heading -->
-  <img src="https://github.com/HotThoughts/HotThoughts/raw/main/cover-sticker.png" />
-
-  <p>
-    Get this Memoji style cover at <a href="https://www.figma.com/community/file/1053231490630677837">Figma</a>.
-  </p>
-
+  <img src="https://github.com/HotThoughts/HotThoughts/raw/main/cover-sticker.png" alt="HotThoughts cover" />
 </div>
 
-<hr>
+```text
+~ $ about
+  └─ Pronouns: she/they
 
-💫 My Philosophy
+~ $ philosophy
+  ├─ Automation first, because professional laziness is an art form.
+  ├─ Infrastructure as Code & GitOps, because there is elegance in version-controlled systems.
+  └─ Sharing is caring.
 
-- **Automation First** because professional laziness is an art form
-- **Infrastructure as Code & GitOps** if you wish to find the version controlled elegance
-- **Sharing is caring!**
+~ $ exploring
+  ├─ Music as Code in Neovim
+  └─ Model serving & inference
 
-🌱 Learning & Exploring
-
-- **Music as Code** in nvim ฅʕ•̫͡•ʔฅ 
-- **Model Serving & Inference**
-
-🤝 Open to Collaboration
-
-- **Generative Art, Interactive Installations, Visual-Audio Performance**
-
-😄 Pronouns: she/they
+~ $ collaboration
+  └─ Open to generative art, interactive installations, and audiovisual performance.
+```
