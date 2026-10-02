@@ -2,6 +2,8 @@
   <img src="https://github.com/HotThoughts/HotThoughts/raw/main/cover-sticker.png" alt="HotThoughts cover" />
 </div>
 
+<p align="center"><code>~ $</code> Get this Memoji style cover at <a href="https://www.figma.com/community/file/1053231490630677837">Figma</a>.</p>
+
 ```text
 ~ $ about
   └─ Pronouns: she/they
